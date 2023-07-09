@@ -1,0 +1,156 @@
+weatherio
+weatherio is a weather app made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = logo
+
+placeholder = Search city...
+
+<span class="m-icon">search</span>
+
+<span class="m-icon">arrow_back</span>
+
+<span class="m-icon">location_on</span>
+
+London
+State of London, GB
+
+<span class="m-icon icon">search</span>
+
+<span class="m-icon">my_location</span>
+
+Current Location
+
+
+
+#---------- CURRENT WEATHER ----------#
+
+Now
+
+25&deg;c
+
+alt = Overcast Clouds
+
+Overcast Clouds
+
+<span class="m-icon">calendar_today</span>
+Thursday 16, Feb
+
+<span class="m-icon">location_on</span>
+London, GB
+
+
+
+#---------- FORECAST ----------#
+
+5 Days Forecast
+
+alt = Overcast Clouds
+25
+
+17 Feb
+Friday
+
+
+
+#---------- HIGHLIGHTS ----------#
+
+Todays Highlights
+
+Air Quality Index
+
+<span class="m-icon">air</span>
+
+23.3
+PM
+2.5
+
+Good
+
+Sunrise & Sunset
+
+<span class="m-icon">clear_day</span>
+Sunrise
+6:30 AM
+
+<span class="m-icon">clear_night</span>
+Sunset
+5:54 PM
+
+Humidity
+<span class="m-icon">humidity_percentage</span>
+35%
+
+Pressure
+<span class="m-icon">airwave</span>
+1052hPa
+
+Visibility
+<span class="m-icon">visibility</span>
+10km
+
+Feels Like
+<span class="m-icon">thermostat</span>
+25&deg;c
+
+
+
+#---------- HOURLY FORECAST ----------#
+
+Today at
+
+03 PM
+25&deg;
+
+03 PM
+12 km/h
+
+
+
+#---------- FOOTER ----------#
+
+Copyright 2023 codewithsadee. All Rights Reserved.
+
+Powered By
+https://openweathermap.org/api
+title = Free OpenWeather Api
+alt = OpenWeather
+
+
+
+#---------- ERROR 404 ----------#
+
+404
+Page not found!
+
+Go Home
+
+
+
+#---------- AIR QUALITY INDEX ----------#
+
+1
+Good
+Air quality is considered satisfactory, and air pollution poses little or no risk
+
+2
+Fair
+Air quality is acceptable; however, for some pollutants there may be a moderate health concern for a very small number of people who are unusually sensitive to air pollution.
+
+3
+Moderate
+Members of sensitive groups may experience health effects. The general public is not likely to be affected.
+
+4
+Poor
+Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects
+
+5
+Very Poor
+Health warnings of emergency conditions. The entire population is more likely to be affected.
+
+
+defaultLocation = #/weather?lat=51.5073219&lon=-0.1276474
